@@ -1,4 +1,4 @@
-# Free-to-Paid Conversion Rate Analysis
+# User Journey Analysis Free to Paid Conversion
 
 ## Project Overview
 
@@ -81,7 +81,7 @@ FROM
 The results of the SQL query are exported to a CSV file for further analysis.
 
 ### 5. Interpretation of the results
- 
+
 Further analysis is performed using Python. The analysis script is named Analysis.py.
 
 The analysis reveals crucial insights into user behavior and platform performance. 
