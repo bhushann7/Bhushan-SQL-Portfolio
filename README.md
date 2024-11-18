@@ -10,7 +10,7 @@ This project analyzes the conversion rate from free to paid subscriptions using 
 2. SQL Subquery Creation
 3. Main SQL Query with Calculations
 4. Data Export to CSV
-5. Python Analysis
+5. Interpretation of the results
 
 ## Detailed Steps
 
