@@ -1,0 +1,1 @@
+This repository contains solutions for SQL practice questions from LeetCode, HackerRank, DataLemur and other websites.
